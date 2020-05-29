@@ -4,6 +4,8 @@ An awesome list for [The Composable Architecture](https://github.com/pointfreeco
 
 # Articles:
 
+- [PointFree Composable Architecture showcase](https://alejandromp.com/blog/pointfree-composable-architecture-showcase/)
+
 # Videos:
 
 - A Tour of the Composable Architecture:
@@ -26,3 +28,9 @@ An awesome list for [The Composable Architecture](https://github.com/pointfreeco
 
 - [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
 - [Milestones](https://github.com/jpsim/Milestones)
+- [A Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/swift-composable-architecture)
+
+# Twitter:
+
+- [Brandon Williams](https://twitter.com/mbrandonw)
+- [Stephen Celis](https://twitter.com/stephencelis)

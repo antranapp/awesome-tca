@@ -28,7 +28,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 
 - [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
 - [Milestones](https://github.com/jpsim/Milestones)
-- [A Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/swift-composable-architecture)
+- [A Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture)
 - [Wishlist](https://github.com/Rypac/wishlist)
 - [logistics-ios](https://github.com/hypertrack/logistics-ios)
 - [Moviehub](https://github.com/oskarek/Moviehub)

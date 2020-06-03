@@ -33,6 +33,10 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [logistics-ios](https://github.com/hypertrack/logistics-ios)
 - [Moviehub](https://github.com/oskarek/Moviehub)
 
+# Showcases:
+
+- [Readit - Save and Read](https://apps.apple.com/es/app/readit-save-and-read/id1513003417?l=en)
+
 # Twitter:
 
 - [Brandon Williams](https://twitter.com/mbrandonw)

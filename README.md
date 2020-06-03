@@ -36,6 +36,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 # Showcases:
 
 - [Readit - Save and Read](https://apps.apple.com/es/app/readit-save-and-read/id1513003417?l=en)
+- [Tapcast - Podcast Player](https://apps.apple.com/us/app/tapcast-podcast-studio/id1484994729)
 
 # Twitter:
 

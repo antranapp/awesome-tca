@@ -34,6 +34,8 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [logistics-ios](https://github.com/hypertrack/logistics-ios)
 - [Moviehub](https://github.com/oskarek/Moviehub)
 - [GitHub Status Bar macOS App](https://github.com/darrarski/github-status-bar)
+- [FillTheGaps](https://github.com/MoralAlberto/FillTheGaps)
+- [TCA + Tuist = Scalable modular architecture](https://github.com/fortmarek/ComposableTuistArchitecture)
 
 # Showcases:
 

@@ -36,6 +36,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [GitHub Status Bar macOS App](https://github.com/darrarski/github-status-bar)
 - [FillTheGaps](https://github.com/MoralAlberto/FillTheGaps)
 - [TCA + Tuist = Scalable modular architecture](https://github.com/fortmarek/ComposableTuistArchitecture)
+- [Construct](https://github.com/Thomvis/Construct)
 
 # Showcases:
 

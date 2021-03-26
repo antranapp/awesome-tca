@@ -43,6 +43,12 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [Readit - Save and Read](https://apps.apple.com/es/app/readit-save-and-read/id1513003417?l=en)
 - [Tapcast - Podcast Player](https://apps.apple.com/us/app/tapcast-podcast-studio/id1484994729)
 - [Indie Apps Showcases - A platform to showcase your side projects](https://antranapp.github.io/IndieApps/)
+- [isowords - Open source game built in SwiftUI and the Composable Architecture.](https://github.com/pointfreeco/isowords)
+- [TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture](https://github.com/RogyMD/TCAminesweeper)
+- [markoff - A lightweight Markdown (CommonMark) previewer for macOS.](https://github.com/kaishin/markoff)
+- [WallpapersStudio-iOS - Convert photos into wallpapers - iOS application build with SwiftUI and ComposableArchitecture](https://github.com/darrarski/WallpapersStudio-iOS)
+- [MemoArt - A basic but smart SwiftUI pair-matching game. Continuously improving with some new art styles, new difficulty levels and some other user experience ideas.](https://github.com/renaudjenny/MemoArt)
+- [Sauna - A lightweight macOS app that displays your Steam friends list.](https://github.com/alexjohnj/Sauna)
 
 # Twitter:
 

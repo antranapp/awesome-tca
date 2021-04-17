@@ -37,6 +37,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [FillTheGaps](https://github.com/MoralAlberto/FillTheGaps)
 - [TCA + Tuist = Scalable modular architecture](https://github.com/fortmarek/ComposableTuistArchitecture)
 - [Construct](https://github.com/Thomvis/Construct)
+- [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
 
 # Showcases:
 

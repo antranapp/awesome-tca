@@ -39,6 +39,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [Construct](https://github.com/Thomvis/Construct)
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment)
+- [xctemplate for tca](https://github.com/riiid/xctemplate-for-tca)
 
 # Showcases:
 

@@ -53,6 +53,8 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [MemoArt - A basic but smart SwiftUI pair-matching game. Continuously improving with some new art styles, new difficulty levels and some other user experience ideas.](https://github.com/renaudjenny/MemoArt)
 - [Sauna - A lightweight macOS app that displays your Steam friends list.](https://github.com/alexjohnj/Sauna)
 - [TCA-Snake - Snake built on SwiftUI & TCA (The Composable Architecture)](https://github.com/p-larson/TCA-Snake)
+- [PokemonCards - SwiftUI + Composable Architecture](https://github.com/coletiv/coletiv-ios-swiftui-tca-example)
+
 
 # Twitter:
 

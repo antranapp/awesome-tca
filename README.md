@@ -54,6 +54,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [Sauna - A lightweight macOS app that displays your Steam friends list.](https://github.com/alexjohnj/Sauna)
 - [TCA-Snake - Snake built on SwiftUI & TCA (The Composable Architecture)](https://github.com/p-larson/TCA-Snake)
 - [PokemonCards - SwiftUI + Composable Architecture](https://github.com/coletiv/coletiv-ios-swiftui-tca-example)
+- [AnimeNow - Watch your favorite anime shows anywhere! Built with SwiftUI and TCA.](https://github.com/AnimeNow-Team/AnimeNow)
 
 
 # Twitter:

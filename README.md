@@ -5,6 +5,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 # Articles:
 
 - [PointFree Composable Architecture showcase](https://alejandromp.com/blog/pointfree-composable-architecture-showcase/)
+- [TCA Best Practices](https://www.merowing.info/the-composable-architecture-best-practices/)
 
 # Videos:
 
@@ -40,6 +41,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment)
 - [xctemplate for tca](https://github.com/riiid/xctemplate-for-tca)
+- [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions)
 
 # Showcases:
 
@@ -56,6 +58,9 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [PokemonCards - SwiftUI + Composable Architecture](https://github.com/coletiv/coletiv-ios-swiftui-tca-example)
 - [AnimeNow - Watch your favorite anime shows anywhere! Built with SwiftUI and TCA.](https://github.com/AnimeNow-Team/AnimeNow)
 
+# Community:
+
+- [Point-Free community Slack](http://pointfree.co/slack-invite)
 
 # Twitter:
 

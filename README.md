@@ -43,6 +43,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
 - [xctemplate for tca](https://github.com/riiid/xctemplate-for-tca)
 - [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions)
+- [TCA-beam: templated reducer + view stub generation tool](https://github.com/alexhunsley/tca-beam)
 
 # Showcases:
 

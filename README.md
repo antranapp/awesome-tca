@@ -30,16 +30,9 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 # Code:
 
 - [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
-- [Milestones](https://github.com/jpsim/Milestones)
 - [ReactiveSwift Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture)
 - [RxComposableArchitecture](https://github.com/esam091/RxComposableArchitecture)
-- [Wishlist](https://github.com/Rypac/wishlist)
-- [logistics-ios](https://github.com/hypertrack/logistics-ios)
-- [Moviehub](https://github.com/oskarek/Moviehub)
-- [GitHub Status Bar macOS App](https://github.com/darrarski/github-status-bar)
-- [FillTheGaps](https://github.com/MoralAlberto/FillTheGaps)
 - [TCA + Tuist = Scalable modular architecture](https://github.com/fortmarek/ComposableTuistArchitecture)
-- [Construct](https://github.com/Thomvis/Construct)
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
 - [xctemplate for tca](https://github.com/riiid/xctemplate-for-tca)
 - [Swift Dependencies Additions](https://github.com/tgrapperon/swift-dependencies-additions)
@@ -59,6 +52,13 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [TCA-Snake - Snake built on SwiftUI & TCA (The Composable Architecture)](https://github.com/p-larson/TCA-Snake)
 - [PokemonCards - SwiftUI + Composable Architecture](https://github.com/coletiv/coletiv-ios-swiftui-tca-example)
 - [AnimeNow - Watch your favorite anime shows anywhere! Built with SwiftUI and TCA.](https://github.com/AnimeNow-Team/AnimeNow)
+- [Milestones](https://github.com/jpsim/Milestones)
+- [Wishlist](https://github.com/Rypac/wishlist)
+- [logistics-ios](https://github.com/hypertrack/logistics-ios)
+- [Moviehub](https://github.com/oskarek/Moviehub)
+- [FillTheGaps](https://github.com/MoralAlberto/FillTheGaps)
+- [Construct](https://github.com/Thomvis/Construct)
+- [GitHub Status Bar macOS App](https://github.com/darrarski/github-status-bar)
 
 # Community:
 

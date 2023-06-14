@@ -59,6 +59,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [TCAminesweeper - Minesweeper game in Swift UI using the Composable Architecture](https://github.com/RogyMD/TCAminesweeper)
 - [WallpapersStudio-iOS - Convert photos into wallpapers - iOS application build with SwiftUI and ComposableArchitecture](https://github.com/darrarski/WallpapersStudio-iOS)
 - [Wishlist](https://github.com/Rypac/wishlist)
+- [Life Progress](https://github.com/Bartozo/Life-Progress-iOS)
 
 # Community:
 

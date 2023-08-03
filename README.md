@@ -27,6 +27,8 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
     - [Composable Architecture Debugging and High Order Reducers](https://www.youtube.com/watch?v=113bOxNHlUk)
     - [Time Travel from scratch thanks to Composable Architecture](https://www.youtube.com/watch?v=ASsjhyzwBR4)
 
+- [Shai Mishali - A Newbie's Guide to The Composable Architecture - Swift Heroes 2023](https://youtu.be/XWZmgbylTpc)
+
 # Code:
 
 - [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)

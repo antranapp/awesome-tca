@@ -16,6 +16,10 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
     - [Part 3](https://www.pointfree.co/episodes/ep102-a-tour-of-the-composable-architecture-part-3)
     - [Part 4](https://www.pointfree.co/episodes/ep103-a-tour-of-the-composable-architecture-part-4)
 
+- Tour of the Composable Architecture 1.0
+
+    - [The Basics](https://www.pointfree.co/episodes/ep100-a-tour-of-the-composable-architecture-part-1)
+
 - [Meet The Composable Architecture](https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/meetcomposablearchitecture/)
 
 - Alexito's World:

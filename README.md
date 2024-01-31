@@ -43,6 +43,7 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [TCA + Tuist = Scalable modular architecture](https://github.com/fortmarek/ComposableTuistArchitecture)
 - [TCA-beam: templated reducer + view stub generation tool](https://github.com/alexhunsley/tca-beam)
 - [xctemplate for tca](https://github.com/riiid/xctemplate-for-tca)
+- [TCADiagram - Create mermaid md file from swift-composable-architecture to show the full diagram of your feature relationships](https://github.com/riiid/tca-diagram)
 
 # Showcases:
 

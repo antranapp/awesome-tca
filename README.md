@@ -68,10 +68,12 @@ A curated awesome list for [The Composable Architecture](https://github.com/poin
 - [Wishlist](https://github.com/Rypac/wishlist)
 - [Life Progress](https://github.com/Bartozo/Life-Progress-iOS)
 - [TCA-Bible](https://github.com/p-larson/TCA-Bible)
+- [TCACalc](https://github.com/DandyLyons/TCACalc): A demonstration of a calculator app written in Swift using The Composable Architecture.
 
 # Community:
 
 - [Point-Free community Slack](http://pointfree.co/slack-invite)
+- [Swift Forums - Swift Composable Architecture](https://forums.swift.org/c/related-projects/swift-composable-architecture/61)
 
 # Twitter:
 
